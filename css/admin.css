@@ -1,0 +1,37 @@
+@media (min-width:769px ) {
+    		#slide_sub{
+    			width: 200px;
+    			height: 600px;
+    			margin-top: 50px;
+    			position: absolute;
+				z-index: 1;
+				
+    		}
+    		.page-main{
+    			margin-left: 202px;
+    		}//page-main
+    	}
+    	.mysearch{
+    			margin: 10px 0;
+    		}//mysearch
+    		
+@media  (max-width: 768px) {
+	#slide_sub{
+		background: darkred;
+	}
+} 
+@media  (min-width: 769px) and (max-width: 992px) {
+	#slide_sub{
+		background: yellowgreen;
+	}
+}
+@media (min-width:993px) and (max-width:1200px){
+	#slide_sub{
+		background: paleturquoise;
+	}
+}
+@media (min-width:1200px){
+	#slide_sub{
+		background: darkcyan;
+	}
+}

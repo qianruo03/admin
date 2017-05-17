@@ -1,0 +1,56 @@
+body {
+  font-family: "微软雅黑";
+}
+.progress {
+  margin-bottom: 16px;
+}
+textarea.form-control {
+  height: 110px;
+  margin-bottom: 15px;
+}
+.w64 {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+}
+.page-header {
+  margin-top: 0 ;
+}
+.page-header h3 {
+  margin: 0;
+  font-size: 16px;
+}
+.formg-roup {
+  border: 1px solid #ccc;
+  border-top: none;
+  padding: 10px;
+}
+small {
+  font-weight: bold;
+}
+.pagination {
+  margin-top: 0;
+}
+.mar15 {
+  margin-top: 10px;
+}
+.mar15 #content {
+  height: 310px;
+}
+.padd {
+  padding: 0;
+}
+.page-header {
+  padding-bottom: 9px;
+  margin: 0 0 20px;
+  border-bottom: 1px solid #eee;
+}
+.page-header h3 {
+  padding: 0;
+}
+.alert {
+  margin: 10px 15px 10px 0;
+}
+#footer p {
+  padding: 26px 0 36px 0;
+}
